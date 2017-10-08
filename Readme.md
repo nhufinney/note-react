@@ -1,4 +1,5 @@
 download the repo;
+
 in terminal: 
 - go inside the directory;
 - run command 'npm update';
