@@ -1,0 +1,16 @@
+.div-note{
+	width: 150px;
+	padding: 5px;
+	margin: 3px;
+	border: solid 3px gray;
+	border-radius: 5px;	
+}
+.div-list{
+	width: 200px;
+	padding: 5px;
+	border: solid 3px black;
+	border-radius: 1px;	
+}
+.input {
+	padding-top: 20px;
+}
